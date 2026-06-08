@@ -9,5 +9,5 @@
 
 | # | Step Actions | Expected Results |
 |---|---|---|
-| 1 | Have a librarian/admin account approve the user's pending reservation from the admin circulation panel. | Verify that a real-time toast popup (`.notifier-toast`) animates onto the screen displaying the approval message[cite: 1]. |
-| 2 | Observe the notification bell icon in the top navigation bar. | Verify that the red unread badge (`.notifier-badge`) increments its count to reflect the new alert[cite: 1]. |
+| 1 | Have a librarian/admin account approve the user's pending reservation from the admin circulation panel. | Verify that a real-time toast popup (`.notifier-toast`) animates onto the screen displaying the approval message. |
+| 2 | Observe the notification bell icon in the top navigation bar. | Verify that the red unread badge (`.notifier-badge`) increments its count to reflect the new alert. |

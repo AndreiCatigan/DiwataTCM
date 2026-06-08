@@ -9,5 +9,5 @@
 
 | # | Step Actions | Expected Results |
 |---|---|---|
-| 1 | Click the notification bell toggle (`.notifier-toggle`) in the top navigation bar[cite: 1]. | Verify that the notification panel drops down, displaying a scrollable list of recent alerts[cite: 1]. |
-| 2 | Inspect the visual styling of the listed items. | Verify that unread items are distinctly highlighted (e.g., green tint/border via `.notifier-item.unread`), while read items have a standard white background[cite: 1]. |
+| 1 | Click the notification bell toggle (`.notifier-toggle`) in the top navigation bar. | Verify that the notification panel drops down, displaying a scrollable list of recent alerts. |
+| 2 | Inspect the visual styling of the listed items. | Verify that unread items are distinctly highlighted (e.g., green tint/border via `.notifier-item.unread`), while read items have a standard white background. |

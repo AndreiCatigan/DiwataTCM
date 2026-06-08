@@ -9,5 +9,5 @@
 
 | # | Step Actions | Expected Results |
 |---|---|---|
-| 1 | Click directly on a single unread notification item within the list. | Verify that the specific item loses its unread styling, and the main notification badge count decreases by exactly 1[cite: 1]. |
-| 2 | Click the "Mark all as read" link (`.notifier-link`) inside the notification panel header[cite: 1]. | Verify that all remaining unread items instantly switch to the read state, and the red notification badge disappears completely from the bell icon[cite: 1]. |
+| 1 | Click directly on a single unread notification item within the list. | Verify that the specific item loses its unread styling, and the main notification badge count decreases by exactly 1. |
+| 2 | Click the "Mark all as read" link (`.notifier-link`) inside the notification panel header. | Verify that all remaining unread items instantly switch to the read state, and the red notification badge disappears completely from the bell icon. |
